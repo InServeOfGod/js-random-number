@@ -4,5 +4,12 @@
     .center {
         padding: 3em 2em;
         text-align: center;
+        width: max-content;
+        margin: 0 auto;
+    }
+
+    button {
+        display: block;
+        margin-left: auto;
     }
 }
